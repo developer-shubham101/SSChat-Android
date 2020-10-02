@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "31777626754",
+    "firebase_url": "https://sschat-aef42.firebaseio.com",
+    "project_id": "sschat-aef42",
+    "storage_bucket": "sschat-aef42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31777626754:android:83603f89e452135030f29b",
+        "android_client_info": {
+          "package_name": "in.newdevpoint.sschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31777626754-uacea8j51u3g8qsanjpr83nn0tmv3oj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntYLC_l5G0nfSvQt8S4QVU64XcHNhszg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31777626754-uacea8j51u3g8qsanjpr83nn0tmv3oj5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31777626754-9h6b2j7a5ej38gp2i01jbl1bgn3v1bd0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.newdevpoint.SSChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
